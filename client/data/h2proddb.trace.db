@@ -1,0 +1,4 @@
+2021-04-27 09:36:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "SAMPLE" nicht gefunden
+Table "SAMPLE" not found; SQL statement:
+select sample0_.id as id1_0_, sample0_.password as password2_0_, sample0_.username as username3_0_ from sample sample0_ [42102-200]

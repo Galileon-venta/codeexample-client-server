@@ -1,0 +1,6 @@
+/client.iml
+.idea
+/.idea/compiler.xml
+
+# Project exclude paths
+/target/
